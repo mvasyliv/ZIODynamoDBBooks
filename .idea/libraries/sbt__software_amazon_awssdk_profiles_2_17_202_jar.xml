@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: software.amazon.awssdk:profiles:2.17.202:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/software/amazon/awssdk/profiles/2.17.202/profiles-2.17.202.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/software/amazon/awssdk/profiles/2.17.202/profiles-2.17.202-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/software/amazon/awssdk/profiles/2.17.202/profiles-2.17.202-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
